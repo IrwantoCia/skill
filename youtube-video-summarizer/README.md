@@ -1,5 +1,7 @@
 # YouTube Video Summarizer
 
+[![skills.sh](https://skills.sh/b/IrwantoCia/skill)](https://skills.sh/IrwantoCia/skill)
+
 A Go-based CLI for downloading YouTube subtitles (.vtt) and cleaning them into readable prose. Designed as an agent skill for [OpenCode](https://opencode.ai) and compatible with the [Agent Skills](https://agentskills.io) standard.
 
 ## Prerequisites
