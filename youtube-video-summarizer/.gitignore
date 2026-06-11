@@ -1,0 +1,18 @@
+# Binaries (make build / go build .)
+yt-summarizer
+youtube-video-summarizer
+
+# Go build/test artifacts
+*.out
+*.test
+*.prof
+
+# VTT cache directory (created at CWD by -yt mode)
+_vtt/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+project.md
+current.md
